@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: blogfatec
+server:
+    servlet:
+        contextPath: /api
+    port: 8080   
